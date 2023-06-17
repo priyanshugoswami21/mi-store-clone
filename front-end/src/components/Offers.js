@@ -1,6 +1,6 @@
 import React from 'react'
 import Offer from './Offer.js';
-
+import "../styles/Offer.css";
 const Offers = ({offer}) => {
   return (
     <div className='offerSection'>
